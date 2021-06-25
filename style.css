@@ -118,6 +118,10 @@ a:hover {
     border-color: rgba(255, 255, 255, .2);
 }
 
+.txt-image {
+    font-size: 20px;
+}
+
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
 .d-bloc .navbar-brand:hover,
